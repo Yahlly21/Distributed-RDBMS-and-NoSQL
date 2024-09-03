@@ -1,7 +1,8 @@
-Distributed RDBMS and NoSQL Messaging System
-Liya Gurevich and Yahlly Schein
+# Distributed RDBMS and NoSQL Messaging System
 
-**Project Overview**
+## Liya Gurevich and Yahlly Schein
+
+## **Project Overview**
 This project focuses on the implementation of a distributed messaging system that leverages both RDBMS and NoSQL databases. The system is designed to manage communication between groups of smartphone users, handling user information, devices, conversations, and messages.
 
 **The project consists of two primary components:**
